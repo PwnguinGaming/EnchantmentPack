@@ -9,7 +9,7 @@ import org.bukkit.potion.PotionEffectType;
 /**
  * Gains movement speed when hit
  */
-public class Lively extends PotionAbsorb {
+public class Lively extends PotionPassive {
 
     /**
      * Constructor
